@@ -1,0 +1,14 @@
+{
+    "server": {
+        "logger": {
+            "level": "info"
+        },
+        "port": 9000
+    },    
+    "app": {
+        
+    },
+    "db": {
+
+    }
+}
